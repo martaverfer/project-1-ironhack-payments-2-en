@@ -50,7 +50,8 @@ pip install -r requirements.txt
 
 ## Usage
 
-### Running Python Scripts:
+### Running Python Scripts
+
 For running Python scripts, the main analysis script is located in main.py. You can run it from the command line:
 
 ```bash
@@ -68,6 +69,18 @@ The dataset used for this analysis can be found in this repository:
 
 ## Results
 
+- Cash request:
+    create a  new dataFrame
+        we have our working dataframe with a new column recovery incident (True/False)
+        we create a new dataFrame with 3 columns for the recovery incidents details
+    Merge user + deleted_accounts
+- Fees
+    create two new dataframes
+        our  working DataFrame with two new columns true/false (incident and pospone)
+        postpone fees (from dat, to date)
+    category column incident
+
+- Creating cohorts by date
 
 ## Additional content
 
