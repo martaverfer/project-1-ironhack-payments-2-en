@@ -50,8 +50,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-### Running Python Scripts
-
+### Running Python Scripts:
 For running Python scripts, the main analysis script is located in main.py. You can run it from the command line:
 
 ```bash

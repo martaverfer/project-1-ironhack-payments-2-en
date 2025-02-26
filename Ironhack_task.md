@@ -42,7 +42,7 @@ Assess the quality of the dataset by identifying missing values, data inconsiste
 ### Bonus:
 1. **Operationalize your analysis**: Make sure all the code is in a .py that can be called from the Terminal and whose execution makes sense (if in doubt, ask the Teacher for clarification on this)
 2. **StreamLit**: Read about the StreamLit package and create a StreamLit app about this data (you can leverage on ideias from your dashboard)
-3. **OPP vs Function**: Take your code and replicate it using an oposite strategy than you have done.
+3. **OOP vs Function**: Take your code and replicate it using an oposite strategy than you have done.
 
 <!-- this version uses Tableau which consorci doesn't use -->
 
