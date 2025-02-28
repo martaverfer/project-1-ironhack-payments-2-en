@@ -1,6 +1,11 @@
 # ~~~~~~ Custom entries curated by project team ~~~~~~
 ## data frame backups
 *.pkl
+# project artifacts - images downloaded from streamlit
+*/incident_rate.png
+*/output.png
+*/revenue.png
+*/service_usage.png
 
 # ~~~~~~ AUTO-GENERATED ~~~~~~
 # Created by https://www.toptal.com/developers/gitignore/api/jupyternotebooks,python,macos

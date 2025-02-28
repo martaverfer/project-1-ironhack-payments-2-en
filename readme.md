@@ -83,4 +83,5 @@ The dataset used for this analysis can be found in this repository:
 
 ## Additional content
 
-SLIDES
+- [Presentation](https://docs.google.com/presentation/d/1Dyra_VNvsXpuOuGQpgS10yfB4yp7ZI9L1NXkTc_QoeE/edit?usp=sharing)
+
