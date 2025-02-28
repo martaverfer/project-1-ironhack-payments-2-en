@@ -61,7 +61,8 @@ python3 ./jupyter_notebooks/main.ipynb
 For running main.py in Streamlit. You can run it from the command line:
 
 ```bash
-streamlit run ./python_scripts/main.py
+cd python_scripts; \
+streamlit run main.py
 ```
 
 This script will execute the analysis steps and produce the results.
